@@ -1,3 +1,3 @@
-class Timer
-  #write your code here
+def seconds
 end
+

@@ -18,3 +18,6 @@ def first_word(string)
 	string_array = string.split(" ")
 	string_array[0]
 end
+
+def titlize(str)
+end
